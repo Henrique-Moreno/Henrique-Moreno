@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou o Henrique Moreno
+- 👋 Olá! Eu sou o Henrique Alexandre
 - 💞️ Front-End
 - 🌱 Estudando Ciência de Dados
 
