@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou o Henrique Alexandre
 - 💞️ Front-End
-- 🌱 Estudando Ciência de Dados
+- 🌱 Cursando Sistemas de Informação
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Moreno&show_icons=true&theme=radical)
 
