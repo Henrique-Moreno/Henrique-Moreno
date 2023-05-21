@@ -1,7 +1,7 @@
-- 👋 Olá! Eu sou o Henrique Alexandre
+- 👋 Hello! I'm Henrique Alexandre
 - 💞️ Full Stack Developer
 - 👨🏾‍🎓 Data Scientist
-- 🌱 Cursando a segunda graduação: Ciência da Computação
+- 🌱 Studying the second started: Computer Science
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Moreno&show_icons=true&theme=radical)
 
