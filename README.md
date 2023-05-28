@@ -3,8 +3,6 @@
 - 👨🏾‍🎓 Data Scientist
 - 🌱 Studying the second started: Computer Science
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Moreno&show_icons=true&theme=radical)
-
 - Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
