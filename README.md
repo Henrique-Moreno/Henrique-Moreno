@@ -1,5 +1,5 @@
 - 👋 Hello! I'm Henrique Alexandre
-- 💞️ Full Stack Developer
+- 👨🏾‍💻 Full Stack Developer
 - 👨🏾‍🎓 Data Scientist
 - 🌱 Studying the second started: Computer Science
 
